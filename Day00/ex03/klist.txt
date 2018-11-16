@@ -1,0 +1,6 @@
+Credentials cache: API:46449
+        Principal: zhtut@42.US.ORG
+
+  Issued                Expires               Principal
+Oct 23 19:28:17 2018  Oct 24 05:28:14 2018  krbtgt/42.US.ORG@42.US.ORG
+Oct 23 19:38:07 2018  Oct 24 05:28:14 2018  ldap/ldap-master.42.us.org@42.US.ORG
